@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "i-graffiti",
+  "version": "1.0.0",
+  "description": "Six original graffiti-generation skills.",
+  "author": {
+    "name": "poplarytics"
+  }
+}

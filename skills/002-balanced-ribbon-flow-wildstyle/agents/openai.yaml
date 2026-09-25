@@ -1,0 +1,4 @@
+interface:
+  display_name: "Balanced Ribbon-Flow Wildstyle"
+  short_description: "Wide flow-first wildstyle with woven painted depth"
+  default_prompt: "Use $balanced-ribbon-flow-wildstyle to create a complete ribbon-flow wildstyle mural integrated into a real carrier."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Offset Block-Shadow Wildstyle"
+  short_description: "Clear modular graffiti with large painted offset-layer depth"
+  default_prompt: "Use $offset-block-shadow-wildstyle to create a complete original modular graffiti mural on a real carrier."
+

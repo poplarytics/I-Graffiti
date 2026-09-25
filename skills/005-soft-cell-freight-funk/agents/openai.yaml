@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soft-Cell Freight Funk"
+  short_description: "Original piled soft-cell graffiti word bands on real carriers"
+  default_prompt: "Use $soft-cell-freight-funk to create an original Graffiti treatment on a continuous near-frontal real carrier."

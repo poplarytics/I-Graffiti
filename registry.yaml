@@ -1,0 +1,14 @@
+schema_version: 1
+skills:
+  - path: "skills/001-angular-architectural-wildstyle"
+    manifest: "SKILL.md"
+  - path: "skills/002-balanced-ribbon-flow-wildstyle"
+    manifest: "SKILL.md"
+  - path: "skills/003-offset-block-shadow-wildstyle"
+    manifest: "SKILL.md"
+  - path: "skills/004-modular-geometric-letter-mural"
+    manifest: "SKILL.md"
+  - path: "skills/005-soft-cell-freight-funk"
+    manifest: "SKILL.md"
+  - path: "skills/006-planar-interlock-lettering"
+    manifest: "SKILL.md"

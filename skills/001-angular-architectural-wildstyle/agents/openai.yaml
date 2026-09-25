@@ -1,0 +1,4 @@
+interface:
+  display_name: "Angular Architectural Wildstyle"
+  short_description: "Flat aerosol wildstyle with painted optical depth"
+  default_prompt: "Use $angular-architectural-wildstyle to create materially flat aerosol graffiti with painted optical depth."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planar Interlock Lettering"
+  short_description: "Original fragmented planar wall word fields"
+  default_prompt: "Use $planar-interlock-lettering to create an original Graffiti treatment on a continuous near-frontal wall."

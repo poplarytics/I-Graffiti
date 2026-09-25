@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modular Geometric Letter Mural"
+  short_description: "Original overlapping geometric graffiti word fields"
+  default_prompt: "Use $modular-geometric-letter-mural to create an original Graffiti mural."
